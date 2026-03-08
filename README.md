@@ -1,4 +1,4 @@
-# Honors Thesis — EEG Signal Detection and ROC Analysis
+# Honors Thesis - EEG Signal Detection and ROC Analysis
 
 **Author:** Peter Alexander Graham
 
