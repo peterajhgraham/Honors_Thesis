@@ -1,7 +1,9 @@
 # Honors Thesis — EEG Signal Detection and ROC Analysis
 
 **Author:** Peter Alexander Graham
+
 **Institution:** Brown University
+
 **Contact:** peter_graham@brown.edu
 
 ---
